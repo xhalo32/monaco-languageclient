@@ -2,6 +2,10 @@
 
 All notable changes to this npm module are documented in this file.
 
+## [4.0.4] - 2024-07-06
+
+- Fixed incorrectly specified vscode `peerDependency`
+
 ## [4.0.3] - 2022-12-01
 
 - Fixed compile target configuration
